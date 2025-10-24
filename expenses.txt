@@ -1,0 +1,8 @@
+500,Food,hotel
+1000,Shopping,clothes
+10000,Transport,cycle
+10000,Shopping,zara
+6789,Shopping,clothes 
+50000,Bills,hii
+10000000,Transport,porsche
+100,Food,samosa
