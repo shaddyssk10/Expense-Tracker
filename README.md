@@ -53,4 +53,4 @@ The application is modular, with distinct responsibilities assigned to separate 
 
 ## ✍️ Author
 
-**[Manthan Gohil]** – https://www.linkedin.com/in/manthan-gohil-16283231a/
+**[Shadman_Shaddy]**
